@@ -14,7 +14,7 @@ class Solution {
                 j--;
             }
         }
-        String result = new String(arr);
-        return result;
+     
+        return new String(arr);
     }
 }
